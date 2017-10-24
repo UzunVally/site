@@ -1,0 +1,44 @@
+body 
+{
+background-image: url(knigi2.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size:cover;
+font-family:cursive ;
+
+}
+
+.vhod{
+	position: fixed;
+	left:540px;
+	top: 90px;
+	width: 240px;
+	height: 420px;
+	color:white;
+	padding: 32px;
+	padding-left:45px;
+	background-color:rgba(105, 105, 105, 0.6);
+	border:solid 1px black;
+	border-radius:5%;
+	font-family:"Comic Sans",courier;
+}
+.button{
+	padding:7px 10px;
+	margin:5px;
+	color:white;
+	font-size:16px;
+	font-family:"Comic Sans",courier;
+	border:solid 1px white;
+	border-radius:15%;
+	background-color:rgba(139, 58, 58,0.9);
+}
+.button1{
+	padding:7px 10px;
+	margin:5px;
+	color:white;
+	font-size:16px;
+	font-family:"Comic Sans",courier;
+	border:solid 1px white;
+	border-radius:15%;
+	background-color:rgba(47, 120, 79,0.9);
+}
